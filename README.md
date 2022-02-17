@@ -4,6 +4,8 @@ I made this app to get freeCodeCamp 'FrontEnd Development Libraries' certificate
 
 This is a countdown timer.
 
+Link to this project on CodePen: https://codepen.io/AndrBo/full/mdqpEjW
+
 
 It has four main elements: 
 
